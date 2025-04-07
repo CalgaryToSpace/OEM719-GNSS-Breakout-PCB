@@ -68,7 +68,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -8437,6 +8436,17 @@
 		(uuid "faafff54-173d-40fc-8da9-dbd84bac363d")
 	)
 	(gr_rect
+		(start 57.6 22.9)
+		(end 210 48.3)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "Dwgs.User")
+		(uuid "a2ecdf89-cf99-4855-8998-e63d943ab743")
+	)
+	(gr_rect
 		(start 111 100)
 		(end 136.5 121)
 		(stroke
@@ -8638,6 +8648,18 @@
 				(bold yes)
 			)
 			(justify left top mirror)
+		)
+	)
+	(gr_text "25.4mm x 6 inches"
+		(at 57.6 21.1 0)
+		(layer "Dwgs.User")
+		(uuid "b2bbd344-91b7-480e-ba3a-d7e9ec2bc007")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text_box "{dblquote}Off-the-shelf OEM719{dblquote} means Ant Connector and Headers protrude on same side (incompatible with DMC3)."
