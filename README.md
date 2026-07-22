@@ -12,7 +12,7 @@ This PCB serves the following purposes:
 
 ## References
 
-* Documentation for the OEM719 is [available publicly on the NovAtel website](https://docs.novatel.com/OEM7/Content/Technical_Specs_Receiver/OEM719_Specifications.htma).
+* Documentation for the OEM719 is [available publicly on the NovAtel website](https://docs.novatel.com/OEM7/Content/Technical_Specs_Receiver/OEM719_Specifications.htm).
     * [OEM719 Pin Specifications](https://docs.novatel.com/OEM7/Content/Technical_Specs_Receiver/OEM719_Interface_Connector.htm)
     * [OEM719 Mechanical Drawings](https://docs.novatel.com/OEM7/Content/Technical_Specs_Receiver/OEM719_Mechanicals.htm)
 
